@@ -1,0 +1,18 @@
+.reset-button {
+    border: 2px solid #282c34;
+    color: #282c34;
+    background-color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+.reset-button:hover {
+    background-color: #282c34;
+    color: white;
+}

@@ -1,0 +1,7 @@
+@import './../modules/shared/header/header-component/Header.css';
+@import './../modules/pages/game/game-component/Game.css';
+
+.App {
+  text-align: center;
+  align-items: center;
+}
